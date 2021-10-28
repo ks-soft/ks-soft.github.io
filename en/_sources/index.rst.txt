@@ -1,0 +1,25 @@
+.. KS Soft documentation master file, created by
+   sphinx-quickstart on Mon Oct 25 11:05:59 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to KS Soft!
+===================================
+
+.. image:: images/KSSoft.png
+
+
+個人でゲーム開発をしているKS Softのページです。
+現在は主にUnityを使って開発しています。
+
+
+.. toctree::
+   :name: top
+   :titlesonly:
+   :maxdepth: 1
+
+   Games
+   OtherWorks
+   About
+   Contact
+   Privacy

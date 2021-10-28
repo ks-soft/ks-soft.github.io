@@ -1,0 +1,33 @@
+@import url("theme.css");
+
+.wy-nav-content {
+    max-width: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    border-bottom: 1px solid #ccc;
+}
+
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal;
+}
+
+colgroup {
+    display: none;
+}
+
+.social-icons li {
+    display: inline-block;
+}
+.iframeWrapper {
+  position:relative;
+  width:100%;
+  padding-top:56.25%;
+}
+.iframeWrapper iframe{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
